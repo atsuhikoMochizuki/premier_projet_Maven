@@ -1,0 +1,9 @@
+Lors de l'éxécution d'un JAR (java -jar monProjet), si apparaît le message : acun attribut manifest principal...
+C'est que le système :
+	-> n'a pas désigné la classe pincipale pour l'artefact
+		File/projectStructure/artefacts/add/fromModuleWithdependencies et choisir la classe
+	-> n'a pas construit l'artefact
+		build/buildsArtefacts et cliquer sur le nom de JAR proposé
+
+https://fr.linkedin.com/pulse/cr%C3%A9er-votre-premi%C3%A8re-application-java-avec-intellij-philippe-simo
+

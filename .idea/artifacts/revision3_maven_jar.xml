@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="revision3_maven:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/revision3_maven_jar</output-path>
+    <root id="archive" name="revision3_maven.jar">
+      <element id="module-output" name="premier-projet-maven" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/lalyos/jfiglet/0.0.3/jfiglet-0.0.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
